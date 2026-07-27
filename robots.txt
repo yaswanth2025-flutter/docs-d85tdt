@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-coojon.indocuan.space/sitemap.xml
